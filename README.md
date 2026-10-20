@@ -21,7 +21,7 @@
 | Step | What happens |
 | :--- | :--- |
 | 🕛 **Midnight countdown** | An analog + digital stage clock counts down to `12:00:00 AM`, then velvet curtains open with a light burst. |
-| 🔐 **Secret passcode** | A 4-digit PIN screen with a phone-style dial pad and full keyboard support. Wrong code? Shinchan reacts and the card shakes. Default passcode: **`2026`**. |
+| 🔐 **Secret passcode** | A 4-digit PIN screen with a phone-style dial pad and full keyboard support. Wrong code? Shinchan reacts and the card shakes. Default passcode: **`2026`** |
 | 💖 **Teaser** | Curved animated headings and a "Do you wanna see it?" YES / NO moment (NO makes Shinchan plead 🥺). |
 | 🎁 **3 gift boxes** | 📸 hanging Polaroid **memories clothesline** · 🎂 **birthday cake** with 7 candles to blow out + confetti · 💌 **typewriter love letter** with a 3D Polaroid. |
 | 🎵 **Background music** | A built-in music-box "Happy Birthday" (generated live with the Web Audio API) **or your own song**. Floating 🎵 button to mute / unmute. |
@@ -34,8 +34,7 @@
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/rc8447327-jpg/Secret-Birthday-Gift.git
-cd Secret-Birthday-Gift
+https://thecyberjokers.github.io/Birthday-/
 ```
 
 Then simply **double-click `index.html`**, or serve it locally:
@@ -131,8 +130,8 @@ This is a **personal, non-commercial, fan-made project** made for fun and learni
 
 ## 🙌 Credits & License
 
-- Built on the open-source **[Secret-Birthday-Gift](https://github.com/saklincodes/Secret-Birthday-Gift)** template by **[@saklincodes](https://github.com/saklincodes)** (MIT).
-- Customized and extended (passcode fix, background music, single-file build) by **[@rc8447327-jpg](https://github.com/rc8447327-jpg)** — *TheCyberJokers*.
+- Built on the open-source **[Secret-Birthday-Gift](https://thecyberjokers.github.io/Birthday-/)** template by **[@thecyberjokers](https://github.com/saklincodes)** (MIT).
+- Customized and extended (passcode fix, background music, single-file build) by **[@thecyberjokers(https://github.com/thecyberjokers)** — *TheCyberJokers*.
 
 Licensed under the **[MIT License](LICENSE)**. Please keep the original copyright notice in `LICENSE` when you reuse or fork this project.
 
